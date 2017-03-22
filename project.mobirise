@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ArnoAmandt2017ENG",
-    "currentPage": "index.html",
+    "currentPage": "Portraits",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arnoamandt.github.io/NL/index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Nederlandse versie</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Portraits\">Portraits</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Landscapes\">Landscapes</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Others</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drawings</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"figuur.html\">figuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stilleven.html\">Stilleven</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Portraits\">Portraits</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Landscapes\">Landscapes</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Others</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">drawings</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"figuur.html\">figure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stilleven.html\">Stillife</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
         },
         {
           "_tags": [
@@ -380,7 +380,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "gezichtsfacetten",
+          "title1": "Facets",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Hoe bereik je het gevoel dat een portret naar je terug kan kijken? &nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"facetten.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -396,7 +396,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Alleen de blik",
+          "title2": "Only the eyes",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Hoe worden andere individuen hun blik door mij opgevangen en geschilderd?",
           "button2": "<a data-app-btn=\"true\" href=\"Blikogen.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -412,7 +412,7 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Een andere kijk op de blik",
+          "title3": "An other view on the look&nbsp;",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Wat kan een andere benadering zijn van het simpele portret?&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"andersogen.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -428,7 +428,7 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Vage aanwezigheid",
+          "title4": "A vague presence",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Kan een geportretteerd individu tegelijkertijd aanwezig en afwezig zijn op hetzelfde doek?",
           "button4": "<a data-app-btn=\"true\" href=\"vagerportret.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",

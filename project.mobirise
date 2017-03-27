@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ArnoAmandt2017ENG",
-    "currentPage": "figuur.html",
+    "currentPage": "Landscapes",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "google-analytics": "<<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-93994516-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 42,
+    "uniqCompNum": 43,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -656,7 +656,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-800x636.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg6.jpg",
                 "caption": "24cm x 30cm",
                 "active": false
               },
@@ -666,7 +666,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1-800x394.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-17.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -676,7 +676,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-28.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -832,7 +832,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-40-800x801.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-403.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-409.jpg",
                 "caption": "30cm x 30cm",
                 "active": true
               },
@@ -1078,7 +1078,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-11-800x528.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-114.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -1138,7 +1138,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-17-800x528.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-1710.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -1188,7 +1188,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-22-800x534.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-225.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-22.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -1327,6 +1327,26 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright © 2017 Arno Amandt"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-16",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<p>L&nbsp;andscapes</p>",
+          "meta": "By using landscapes as a subject in my paintings, I found new ideas to use in my work. However, landscapes is a subject that is not currently used. It's work from the past. &nbsp;"
         },
         {
           "_inherit": "gallery1",
@@ -1960,7 +1980,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-24-800x558.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-24.jpg",
-                "caption": "Type caption here",
+                "caption": "14,8cm 21cm",
                 "active": false
               },
               {
@@ -1970,7 +1990,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-25-800x1123.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-25.jpg",
-                "caption": "Type caption here",
+                "caption": "14,8cm 21cm",
                 "active": false
               },
               {
@@ -1980,7 +2000,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-26-800x1179.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-26.jpg",
-                "caption": "Type caption here",
+                "caption": "21cm 14,8cm",
                 "active": false
               },
               {
@@ -1990,7 +2010,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-27-800x1156.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-27.jpg",
-                "caption": "Type caption here",
+                "caption": "14,8cm 21cm",
                 "active": false
               },
               {
@@ -1999,8 +2019,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-28-800x558.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-28.jpg",
-                "caption": "Type caption here",
+                "image": "@PROJECT_PATH@/assets/images/mg-2811.jpg",
+                "caption": "14,8cm x 21cm",
                 "active": false
               },
               {
@@ -2010,7 +2030,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-29-800x1134.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-29.jpg",
-                "caption": "Type caption here",
+                "caption": "21cm x &nbsp;14,8cm",
                 "active": false
               },
               {
@@ -2030,12 +2050,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-30-800x1130.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-30.jpg",
-                "caption": "Type caption here",
+                "caption": "21cm x 14,8cm",
                 "active": true
               }
             ],
             "spacing": "3",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,

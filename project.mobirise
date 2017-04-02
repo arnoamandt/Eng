@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ArnoAmandt2017ENG",
-    "currentPage": "index.html",
+    "currentPage": "stilleven.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2040,7 +2040,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/naamloos1-1168x1688-800x1156.png",
                 "image": "@PROJECT_PATH@/assets/images/naamloos1-1168x1688.png",
-                "caption": "Type caption here",
+                "caption": "59,4cm x 42cm",
                 "active": false
               },
               {

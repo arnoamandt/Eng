@@ -626,6 +626,10 @@ h6,
 #header3-17 H3 {
   font-size: 21px;
 }
+#header3-18 .mbr-section-title,
+#header3-18 .mbr-section-subtitle {
+  text-align: center;
+}
 #menu-f .hide-buttons .nav-btn {
   display: none !important;
 }

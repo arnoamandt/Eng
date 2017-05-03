@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ArnoAmandt2017ENG",
-    "currentPage": "index.html",
+    "currentPage": "exhibitions.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2532,13 +2532,6 @@
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-1d",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><ul><li>&nbsp;<b>Young lions exhibition:</b> BarVIZart, Wilrijk, 28 - 29 April 2017</li></ul><p><br></p><ul><li><b>WAK- Day:</b> Hall Skala, Kalken, 22 April 2017</li></ul><p><br></p><ul><li><b>Sale:</b> CC De stroming, Berlare, 3 March- 7 May 2017</li></ul><p><br></p><ul><li><b>Arnoevoo: </b>Staf Versluyscentre , Bredene, 31 March- 29 April 2015</li></ul><p><br></p><p>Upcoming exhibitions:</p><p><br></p><ul><li><b>Lak@rt in Ypres:</b> Kazematten, Ypres, 24 May- 28 May 2017</li><li><b>Courtyard with Lak@rt:</b> Laarne centre, Laarne, 3 June- 5 June 2017&nbsp;</li></ul></blockquote>",
           "_styles": {
             "P": {
               "color": "#a38f84"
@@ -2547,7 +2540,14 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
-          }
+          },
+          "_anchor": "content2-1d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><ul><li>&nbsp;<b>Young lions exhibition:</b> BarVIZart, Wilrijk, 28 - 29 April 2017</li></ul><p><br></p><ul><li><b>WAK- Day:</b> Hall Skala, Kalken, 22 April 2017</li></ul><p><br></p><ul><li><b>Sale:</b> CC De stroming, Berlare, 3 March- 7 May 2017</li></ul><p><br></p><ul><li><b>Arnoevoo: </b>Staf Versluyscentre , Bredene, 31 March- 29 April 2015</li></ul><p><br></p><p>Upcoming exhibitions:</p><p><br></p><ul><li><b>Lak@rt in Ypres:</b> Kazematten, Ypres, 24 May- 28 May 2017</li></ul><p><br></p><ul><li><b>Courtyard with Lak@rt:</b> Laarne centre, Laarne, 3 June- 5 June 2017&nbsp;</li></ul></blockquote>"
         }
       ]
     }

@@ -347,7 +347,8 @@
             },
             "H3": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px"
             }
           },
           "_tags": [
@@ -703,7 +704,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-800x636.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg0.jpg",
                 "caption": "24cm x 30cm",
                 "active": false
               },
@@ -713,7 +714,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1-800x394.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -723,7 +724,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-22.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -899,7 +900,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-40-800x801.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-409.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-403.jpg",
                 "caption": "30cm x 30cm",
                 "active": true
               },
@@ -1168,7 +1169,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-11-800x528.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-114.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -1228,7 +1229,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-17-800x528.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-1710.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-17.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -1278,7 +1279,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-22-800x534.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-225.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -2109,7 +2110,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-28-800x558.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-2811.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-28.jpg",
                 "caption": "14,8cm x 21cm",
                 "active": false
               },

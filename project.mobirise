@@ -422,7 +422,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "vagerportretten.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -679,7 +679,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-800x636.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg12.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg16.jpg",
                 "caption": "24cm x 30cm",
                 "active": false
               },
@@ -689,7 +689,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1-800x394.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-113.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-117.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -699,7 +699,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-214.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-218.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -875,7 +875,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-40-800x801.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-4015.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-4019.jpg",
                 "caption": "30cm x 30cm",
                 "active": true
               },

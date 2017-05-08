@@ -496,6 +496,7 @@ h6,
 #content5-11 DIV {
   color: #7c706b;
 }
+
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -557,6 +558,13 @@ h6,
 #menu-3 .link[aria-expanded="true"],
 #menu-3 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header3-1e .mbr-section-title,
+#header3-1e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1e H3 {
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ArnoAmandt2017ENG",
-    "currentPage": "Portraits",
+    "currentPage": "vagerportretten.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -777,7 +777,7 @@
             "showMeta": true
           },
           "title": "Another view on the look",
-          "meta": "The portraits in these works are focussing their purpose by shocking the audience. The portraits accomplish this by removing the eyes, or keep just the eyes as the last element of the face. How does the audience see the painting  if the most individual part of a portrait is missing or that part is the only part that is left behind on the face."
+          "meta": "The portraits in these works are focussing their purpose by shocking the audience. The portraits accomplish this by removing the eyes, or keep just the eyes as the last element of the face. How does the audience see the painting  if the most individual part of a portrait is missing, or that part is the only part that is left behind on the face."
         },
         {
           "_styles": {
@@ -1108,10 +1108,10 @@
             "paddingTop": "6",
             "paddingBottom": "1",
             "bgColor": "#fff",
-            "showMeta": false
+            "showMeta": true
           },
           "title": "Only the eyes",
-          "meta": "By John Smith posted July 20, 2016"
+          "meta": "The look in those works are placed in the central. They show us how individual each human views, with both the eyes and the associated emotion or expression. The focus is, thanks to the composition, on the eyes, so the viewer can't do anything else in each work than looking into the view."
         },
         {
           "_inherit": "gallery1",
@@ -1431,13 +1431,13 @@
           "_name": "header3",
           "_anchor": "header3-16",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "5",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<p>L&nbsp;andscapes</p>",
-          "meta": "By using landscapes as a subject in my paintings, I found new ideas to use in my work. However, landscapes is a subject that is not currently used. It's work from the past.These landscapes takes the eyes of the viewer and lift them towards the upper side of the work, this is the result of the elongated shape or the trapezium. &nbsp;"
+          "title": "<p>Landscapes</p>",
+          "meta": "Using landscapes as a subject in my paintings has a goal: Gaining new ideas to use in my work. However, landscapes is a subject that is not currently used. It's work from the past. These landscapes takes the eyes of the viewer and lift them towards the upper side of the work. This is the result of the elongated shape or the trapezium. &nbsp;"
         },
         {
           "_inherit": "gallery1",
@@ -2206,7 +2206,7 @@
             "showMeta": true
           },
           "title": "An absent presence",
-          "meta": "&nbsp;The portrait can be questioned by looking at the colors. Those colors &nbsp;become lighter and softer and eventually dissapear into the background. The paintings becomes more white and vague."
+          "meta": "<p>&nbsp;The portrait can also be questioned by looking at the colors. Those colors &nbsp;become lighter and softer and eventually dissapear into the background By painting carefully the fragile view will be supported&nbsp;. The paintings becomes more white and vague.</p>"
         },
         {
           "_styles": {
